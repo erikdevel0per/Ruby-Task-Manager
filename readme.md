@@ -10,7 +10,7 @@ Este código é um gerenciador de tarefas simples que permite ao usuário adicio
 O código é dividido em duas classes principais (`Task` e `TaskManager`), além de uma função que gerencia a interação com o usuário. Vamos analisar cada parte:
 
 ## Classe `Task`:
-A classe Task representa uma tarefa individual e tem dois atributos principais:
+A classe **Task** representa uma tarefa individual e tem dois atributos principais:
 
 - `description`: a descrição da tarefa.
 - `completed`: um valor booleano (true ou false) que indica se a tarefa foi concluída.
