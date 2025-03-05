@@ -60,7 +60,7 @@ Fluxo de Execução:
 - Dependendo da escolha do usuário, o programa executa a ação correspondente: adicionar, listar, concluir, excluir tarefas ou sair.
 - A lista de tarefas é salva no arquivo de texto a cada modificação, o que garante persistência de dados entre execuções do programa.
 
-## Características de Ruby no Código:
+## Características de **Ruby** no Código:
 
 - Sintaxe simples e expressiva: Ruby é uma linguagem de fácil leitura e escrita, o que permite a criação rápida de protótipos como este.
 - Orientação a objetos: O código utiliza classes e objetos (`Task` e `TaskManager`), que são os pilares da orientação a objetos em Ruby.
